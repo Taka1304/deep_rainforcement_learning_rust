@@ -1,5 +1,5 @@
 [package]
-name = "deep_rainforcement_learning_rust"
+name = "deep_reinforcement_learning_rust"
 version = "0.1.0"
 edition = "2021"
 
